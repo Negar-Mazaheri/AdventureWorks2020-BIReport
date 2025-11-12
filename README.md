@@ -66,7 +66,6 @@ Acts as a main dashboard, providing:
 - **Insight:** Highlights top-performing and underperforming markets globally
 
 ### 3. 📦 Other Key Pages
-If included, other analytical pages may cover:
 - **Product**  
 - **Sales**  
 
