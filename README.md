@@ -16,6 +16,11 @@ The report enables **deep analytical exploration** through advanced Power BI fea
 - 💬 **Visual Tooltips & Drill-Through:** Access contextual and transaction-level detail instantly.  
 - 📱 **Mobile Layout:** Optimized for accessibility and on-the-go analytics.
 
+  <p align="center">
+  <img src="Homepage.png" alt="Adventure Works 2020 Power BI Dashboard" width="800">
+</p>
+
+
 ---
 
 ## 🏗️ Semantic Model Architecture
